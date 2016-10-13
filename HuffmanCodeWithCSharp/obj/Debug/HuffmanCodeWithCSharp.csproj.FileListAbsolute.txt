@@ -1,0 +1,6 @@
+D:\Projects\Visual Studio\Study\Huffman-Code-CSharp-master\HuffmanCodeWithCSharp\bin\Debug\HuffmanCodeWithCSharp.exe.config
+D:\Projects\Visual Studio\Study\Huffman-Code-CSharp-master\HuffmanCodeWithCSharp\bin\Debug\HuffmanCodeWithCSharp.exe
+D:\Projects\Visual Studio\Study\Huffman-Code-CSharp-master\HuffmanCodeWithCSharp\bin\Debug\HuffmanCodeWithCSharp.pdb
+D:\Projects\Visual Studio\Study\Huffman-Code-CSharp-master\HuffmanCodeWithCSharp\obj\Debug\HuffmanCodeWithCSharp.csprojResolveAssemblyReference.cache
+D:\Projects\Visual Studio\Study\Huffman-Code-CSharp-master\HuffmanCodeWithCSharp\obj\Debug\HuffmanCodeWithCSharp.exe
+D:\Projects\Visual Studio\Study\Huffman-Code-CSharp-master\HuffmanCodeWithCSharp\obj\Debug\HuffmanCodeWithCSharp.pdb
